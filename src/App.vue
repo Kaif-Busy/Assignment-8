@@ -60,7 +60,5 @@ th, td {
   padding: 8px;
 }
 
-th {
-  background-color: #f2f2f2;
-}
+
 </style>
