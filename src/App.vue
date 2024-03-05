@@ -49,18 +49,22 @@ export default {
 </script>
 
 <style>
+body{
+  background-color: aliceblue;
+  color: black;
+}
 table {
   border-collapse: collapse;
   width: 100%;
 }
 
 th, td {
-  border: 1px solid #dddddd;
+  border: 1px solid #a26d6d;
   text-align: left;
   padding: 8px;
 }
 
 th {
-  background-color: #f2f2f2;
+  background-color: #ed8f8f;
 }
 </style>
